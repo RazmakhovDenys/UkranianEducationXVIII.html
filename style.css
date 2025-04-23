@@ -25,7 +25,6 @@ h2, h3, h4{
 
 .imgakademi1 {
     border: 5px solid darkred;
-    margin-left: 25px;
     margin-right: 10px;
 }
 
@@ -105,7 +104,7 @@ h2, h3, h4{
 
 .Skovoroda p{
     float: left; 
-    width: 1000px;
+    width: 900px;
     padding-right: 50px;
 }
 
@@ -120,10 +119,8 @@ h2, h3, h4{
     padding-right: 50px;
 }
 
-.Krokovskij p{
-    float: left; 
-    width: 1000px;
-    padding-right: 50px;
+.Krokovskij img{
+    float: right;
 }
 
 
